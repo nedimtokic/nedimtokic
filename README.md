@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedimtokic&" alt="nedimtokic" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nedimtokic&theme=dracula)]()
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nedimtokic&theme=dracula)]()
